@@ -1,0 +1,23 @@
+id: I78CACE6E
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T19:04:56.375113'
+last_modified: '2022-05-27T19:04:56.375127'
+parser: null
+source_metadata:
+  title: 'MSV 6,07: Muktaka'
+  language: bo
+  base:
+    fF8B9:
+      title: Muktaka
+      base_file: fF8B9.txt
+      order: 1
+  chapter_to_tile: {}
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
